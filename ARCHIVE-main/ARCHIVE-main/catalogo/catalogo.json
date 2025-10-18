@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Felpa nera",
+      "brand": "Moonlight",
+      "category": "Abbigliamento",
+      "price": 49.99,
+      "image": "https://raw.githubusercontent.com/<TUO_USERNAME>/ARCHIVE/main/catalog/images/felpa.jpg"
+    }
+  ]
+}
