@@ -1,39 +1,37 @@
-{
-  "prodotti": [
-    {
+[
+  {
       "id": 1,
       "nome": "Scarpa Nike Air Max",
       "categoria": "Scarpe",
       "brand": "Nike",
       "prezzo": 120.0
-    },
-    {
+  },
+  {
       "id": 2,
       "nome": "Felpa Gucci Logo",
       "categoria": "Felpe",
       "brand": "Gucci",
       "prezzo": 350.0
-    },
-    {
+  },
+  {
       "id": 3,
       "nome": "Jeans Adidas Slim Fit",
       "categoria": "Jeans",
       "brand": "Adidas",
       "prezzo": 80.0
-    },
-    {
+  },
+  {
       "id": 4,
       "nome": "Maglione Carhartt Classic",
       "categoria": "Maglioni",
       "brand": "Carhartt",
       "prezzo": 100.0
-    },
-    {
+  },
+  {
       "id": 5,
       "nome": "Felpa Nike Hoodie",
       "categoria": "Felpe",
       "brand": "Nike",
       "prezzo": 90.0
-    }
-  ]
-}
+  }
+]
